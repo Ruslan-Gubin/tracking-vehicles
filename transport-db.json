@@ -1,0 +1,134 @@
+{
+  "transport_list": [
+    {
+      "location": {
+        "latitude": 55.8916328255836,
+        "latitudeDelta": 0.0004198250172677831,
+        "longitude": 37.71246811375022,
+        "longitudeDelta": 0.0005515292286872864
+      },
+      "category": "Грузовой",
+      "driver_name": "Руслан",
+      "vehicle_name": "54654",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085321/Hits/big-truck_oxieug.png",
+      "phone": 79494197155
+    },
+    {
+      "location": {
+        "latitude": 55.86457146414807,
+        "latitudeDelta": 0.0016825405361444723,
+        "longitude": 37.43216855451465,
+        "longitudeDelta": 0.0022104755043912405
+      },
+      "category": "Пассажирский",
+      "vehicle_name": "57233",
+      "driver_name": "Иван",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085327/Hits/passenger_mjrnqm.png",
+      "phone": 79494195568
+    },
+    {
+      "location": {
+        "latitude": 55.71421159979075,
+        "latitudeDelta": 0.10793597159168655,
+        "longitude": 37.4565645866096,
+        "longitudeDelta": 0.14125283807516098
+      },
+      "category": "Спецтранспорт",
+      "vehicle_name": "54854",
+      "driver_name": "Сергей",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085327/Hits/special-transport_x3f2ap.png",
+      "phone": 79494194485
+    },
+    {
+      "location": {
+        "latitude": 55.66430480301953,
+        "latitudeDelta": 0.10807382690727962,
+        "longitude": 37.501025553792715,
+        "longitudeDelta": 0.14125283807516098
+      },
+      "category": "Грузовой",
+      "vehicle_name": "95145",
+      "driver_name": "Данил",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085321/Hits/big-truck_oxieug.png",
+      "phone": 79494198874
+    },
+    {
+      "location": {
+        "latitude": 55.62732669838705,
+        "latitudeDelta": 0.10817591699470341,
+        "longitude": 37.56981046870351,
+        "longitudeDelta": 0.14125283807515387
+      },
+      "category": "Спецтранспорт",
+      "vehicle_name": "548744",
+      "driver_name": "Дмитрий",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085327/Hits/special-transport_x3f2ap.png",
+      "phone": 79494199922
+    },
+    {
+      "location": {
+        "latitude": 55.59552877215871,
+        "latitudeDelta": 0.10826366948388966,
+        "longitude": 37.69231433048844,
+        "longitudeDelta": 0.14125283807516098
+      },
+      "category": "Пассажирский",
+      "vehicle_name": "515752",
+      "driver_name": "Михаил",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085327/Hits/passenger_mjrnqm.png",
+      "phone": 79494192269
+    },
+    {
+      "location": {
+        "latitude": 55.64589901070326,
+        "latitudeDelta": 0.10812464771418462,
+        "longitude": 37.82483087852597,
+        "longitudeDelta": 0.14125283807516098
+      },
+      "category": "Грузовой",
+      "vehicle_name": "99454",
+      "driver_name": "Владимир",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085321/Hits/big-truck_oxieug.png",
+      "phone": 79494194718
+    },
+    {
+      "location": {
+        "latitude": 55.6832512326002,
+        "latitudeDelta": 0.10802150168102997,
+        "longitude": 37.90182637050748,
+        "longitudeDelta": 0.14125283807516098
+      },
+      "category": "Спецтранспорт",
+      "vehicle_name": "574844",
+      "driver_name": "Андрей",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085327/Hits/special-transport_x3f2ap.png",
+      "phone": 79494196872
+    },
+    {
+      "location": {
+        "latitude": 55.730159193902914,
+        "latitudeDelta": 0.10789190299466611,
+        "longitude": 38.001479152590036,
+        "longitudeDelta": 0.14125283807516098
+      },
+      "category": "Пассажирский",
+      "vehicle_name": "57751",
+      "driver_name": "Петр",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085327/Hits/passenger_mjrnqm.png",
+      "phone": 79494197117
+    },
+    {
+      "location": {
+        "latitude": 55.80561641343327,
+        "latitudeDelta": 0.0017005442403856819,
+        "longitude": 37.61368503794074,
+        "longitudeDelta": 0.0022305920720100403
+      },
+      "category": "Грузовой",
+      "vehicle_name": "5484",
+      "driver_name": "Егор",
+      "uri": "https://res.cloudinary.com/ds289tkqj/image/upload/v1687085321/Hits/big-truck_oxieug.png",
+      "phone": 79494199857
+    }
+  ]
+}
